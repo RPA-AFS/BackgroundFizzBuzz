@@ -1052,9 +1052,9 @@
     "restore": {
       "projectUniqueName": "BackgroundFizzBuzz",
       "projectName": "BackgroundFizzBuzz",
-      "projectPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\BackgroundFizzBuzz\\.local",
+      "projectPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\PrivateRepos\\BackgroundFizzBuzz\\.local",
       "packagesPath": "C:\\Users\\patrick.wylie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\BackgroundFizzBuzz\\.local"
+      "outputPath": "C:\\Users\\patrick.wylie\\Documents\\UiPath\\PrivateRepos\\BackgroundFizzBuzz\\.local"
     },
     "frameworks": {
       "net461": {
